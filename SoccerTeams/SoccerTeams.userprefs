@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{07CDC0CE-398D-436F-9B7A-8B5C2C82B2D3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SoccerTeams/Bayern.cs">
+    <Files>
+      <File FileName="SoccerTeams/Program.cs" Line="22" Column="4" />
+      <File FileName="SoccerTeams/Team.cs" Line="15" Column="3" />
+      <File FileName="SoccerTeams/Barcelona.cs" Line="12" Column="41" />
+      <File FileName="SoccerTeams/Bayern.cs" Line="7" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SoccerTeams PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
